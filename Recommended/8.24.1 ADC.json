@@ -1,0 +1,211 @@
+{
+  "title": "8.24.1 ADC (LISG)",
+  "type": "custom",
+  "map": "any",
+  "mode": "any",
+  "priority": false,
+  "sortrank": 1,
+  "champion": "Jinx",
+  "blocks": [
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1055"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        }
+      ],
+      "type": "Most frequent starters (50% win - 61085 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "1054"
+        },
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        }
+      ],
+      "type": "Highest win rate starters (57% win - 146 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3095"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        }
+      ],
+      "type": "Most frequent build (47% win - 25916 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3095"
+        },
+        {
+          "count": 1,
+          "id": "3085"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3094"
+        },
+        {
+          "count": 1,
+          "id": "3026"
+        }
+      ],
+      "type": "Highest win rate build (52% win - 3163 games)"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "3340"
+        },
+        {
+          "count": 1,
+          "id": "3364"
+        },
+        {
+          "count": 1,
+          "id": "3363"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2055"
+        },
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "2032"
+        },
+        {
+          "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ],
+      "type": "Consumables | Warding Totem (Trinket) : 48% win - 48012 games"
+    },
+    {
+      "items": [
+        {
+          "count": 1,
+          "id": "2003"
+        },
+        {
+          "count": 1,
+          "id": "2055"
+        },
+        {
+          "count": 1,
+          "id": "2031"
+        },
+        {
+          "count": 1,
+          "id": "2032"
+        },
+        {
+          "count": 1,
+          "id": "2033"
+        },
+        {
+          "count": 1,
+          "id": "2138"
+        },
+        {
+          "count": 1,
+          "id": "2139"
+        },
+        {
+          "count": 1,
+          "id": "2140"
+        }
+      ],
+      "type": "ProBuilds items unavailable | Q > W > E (50% win - 46707 games) - Q > E > W (56% win - 123 games)"
+    }
+  ],
+  "associatedChampions": [
+    222
+  ],
+  "associatedMaps": [
+    10,
+    11,
+    12
+  ],
+  "preferredItemSlots": [],
+  "startedFrom": "blank"
+}
